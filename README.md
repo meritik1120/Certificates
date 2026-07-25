@@ -11,6 +11,7 @@ This repository contains the professional certifications I have earned while con
 | ☁️ Cloud Computing | ✅ Completed |
 | 🔐 Cyber Security | ✅ Completed |
 | 🐧 Linux | ✅ Completed |
+| 📊 Exploring Data Science with Hands-on Training Using Python | ✅ Completed |
 
 ## 🎯 Learning Journey
 
@@ -22,6 +23,8 @@ I am continuously learning and improving my skills in:
 - Web Development
 - JavaScript
 - Spring Boot
+- Python
+- Data Science
 - Cloud Computing
 - Cyber Security
 - Linux
