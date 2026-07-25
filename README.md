@@ -12,6 +12,7 @@ This repository contains the professional certifications I have earned while con
 | 🔐 Cyber Security | ✅ Completed |
 | 🐧 Linux | ✅ Completed |
 | 📊 Exploring Data Science with Hands-on Training Using Python | ✅ Completed |
+| 🧩 Data Structures & Algorithms (Apna College) | ✅ Completed |
 
 ## 🎯 Learning Journey
 
